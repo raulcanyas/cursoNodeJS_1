@@ -8,7 +8,7 @@ server.get('/', function(req, res){
 });
 
 server.listen(3000, function() {
-    console.log('Servidor Web en puerto 3000'.red);
+    console.log('Servidor Web en puerto 3000'.blue);
 });
 
 
